@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C@rick Ymele
 - 👀 I’m interested in javascript with all the technologie around it, and java
-- 🌱 I’m currently learning spring boot
-- 💞️ I’m looking to collaborate on MERN,react-native, java Swing, and Spring boot projects 
+- 🌱 I’m currently learning NestJs
+- 💞️ I’m looking to collaborate on MERN,react-native, and Nestjs projects 
 - 📫 How to reach me whatsapp:<a href="https://wa.me/+237690521563"> +237 690-521-563</a>
  
 <!---
